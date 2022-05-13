@@ -8,7 +8,7 @@ app.use(cors());
 
 app.use(express.json()); // When we want to be able to accept JSON.
 
-const inspiration = [
+const quotes = [
   " You're doing great!",
   "You're on the right track!",
   "You can do it!",
